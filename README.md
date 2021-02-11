@@ -2,4 +2,4 @@
 
 ## introduction
 
-### and so on
+### and so on:
